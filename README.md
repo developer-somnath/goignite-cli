@@ -17,12 +17,12 @@ You can install the GoIgnite CLI globally on your system using the `go install` 
 To install the latest version of GoIgnite CLI, run:
 
 ```bash
-go install github.com/your-username/goignite-cli@latest
+go install github.com/developer-somnath/goignite-cli@latest
 
 ```
 ### Install the specific version:
 ```bash
-go install github.com/your-username/goignite-cli@v1.0.0
+go install github.com/developer-somnath/goignite-cli@v1.0.0
 
 ```
 
@@ -99,7 +99,7 @@ This will print the current version of the CLI.
 To update GoIgnite CLI to the latest version, simply run:
 
 ```
-go install github.com/your-username/goignite-cli@latest
+go install github.com/developer-somnath/goignite-cli@latest
 ```
 
 This will pull the latest version from the repository and install it on your system.
