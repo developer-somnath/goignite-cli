@@ -1,6 +1,6 @@
 # GoIgnite CLI
 
-GoIgnite CLI is a command-line tool designed to help you quickly scaffold and manage GoIgnite projects, similar to how `artisan` works in Laravel. It provides commands for generating new projects, managing project components, and more.
+GoIgnite CLI is a command-line tool designed to help you quickly scaffold and manage GoIgnite projects. It provides commands for generating new projects, managing project components, and more.
 
 ## Features
 
